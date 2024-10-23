@@ -173,57 +173,106 @@ Aqui está uma lista de **200 exercícios de Java**, organizados do básico ao a
 ## Avançado (151-200)
 
 151. **Threads em Java:** Escreva um programa que utilize múltiplas threads.
-152. **Executor Service:** Faça um programa que utilize o Executor Service para gerenciar threads.
-153. **Sincronização de Threads:** Crie um programa que demonstre a sincronização de threads.
-154. **Programação Funcional:** Escreva um programa que utilize características de programação funcional em Java.
-155. **Java Streams:** Faça um programa que utilize Java Streams para manipulação de dados.
-156. **Lambdas:** Crie um programa que utilize expressões lambda.
-157. **Programação Orientada a Objetos:** Escreva um programa que demonstre os princípios da POO (encapsulamento, herança, polimorfismo).
-158. **Interfaces Funcionais:** Crie um programa que utilize interfaces funcionais.
-159. **Reflexão em Java:** Faça um programa que utilize a API de reflexão do Java.
-160. **Anotações:** Escreva um programa que utilize anotações em Java.
-161. **Serializable:** Crie um programa que serialize e deserialize objetos.
-162. **Coleções em Java:** Faça um programa que utilize as coleções do Java (List, Set, Map).
-163. **Java Generics:** Escreva um programa que utilize generics.
-164. **Programação Concorrente:** Crie um programa que demonstre conceitos de programação concorrente.
-165. **Sockets em Java:** Faça um programa que utilize sockets para comunicação de rede.
-166. **RMI (Remote Method Invocation):** Escreva um programa que utilize RMI.
-167. **Java NIO:** Crie um programa que utilize a API NIO para operações de E/S.
-168. **JDBC (Java Database Connectivity):** Faça um programa que se conecte a um banco de dados usando JDBC.
-169. **JavaFX:** Escreva um programa que utilize JavaFX para criar uma interface gráfica
 
-.
+152. **Executor Service:** Faça um programa que utilize o Executor Service para gerenciar threads.
+
+153. **Sincronização de Threads:** Crie um programa que demonstre a sincronização de threads.
+
+154. **Programação Funcional:** Escreva um programa que utilize características de programação funcional em Java.
+
+155. **Java Streams:** Faça um programa que utilize Java Streams para manipulação de dados.
+
+156. **Lambdas:** Crie um programa que utilize expressões lambda.
+
+157. **Programação Orientada a Objetos:** Escreva um programa que demonstre os princípios da POO (encapsulamento, herança, polimorfismo).
+
+158. **Interfaces Funcionais:** Crie um programa que utilize interfaces funcionais.
+
+159. **Reflexão em Java:** Faça um programa que utilize a API de reflexão do Java.
+
+160. **Anotações:** Escreva um programa que utilize anotações em Java.
+
+161. **Serializable:** Crie um programa que serialize e deserialize objetos.
+
+162. **Coleções em Java:** Faça um programa que utilize as coleções do Java (List, Set, Map).
+
+163. **Java Generics:** Escreva um programa que utilize generics.
+
+164. **Programação Concorrente:** Crie um programa que demonstre conceitos de programação concorrente.
+
+165. **Sockets em Java:** Faça um programa que utilize sockets para comunicação de rede.
+
+166. **RMI (Remote Method Invocation):** Escreva um programa que utilize RMI.
+
+167. **Java NIO:** Crie um programa que utilize a API NIO para operações de E/S.
+
+
+
+168. **JDBC (Java Database Connectivity):** Faça um programa que se conecte a um banco de dados usando JDBC.
+
+169. **JavaFX:** Escreva um programa que utilize JavaFX para criar uma interface gráfica.
+
 170. **JSP (JavaServer Pages):** Crie uma aplicação web simples usando JSP.
+
 171. **Spring Framework:** Faça um programa que utilize o Spring Framework.
+
 172. **Hibernate:** Escreva um programa que utilize o Hibernate para mapeamento objeto-relacional.
+
 173. **Microserviços:** Crie uma aplicação de microserviços.
+
 174. **RESTful API:** Faça um programa que implemente uma API RESTful.
+
 175. **SOAP Web Services:** Escreva um programa que utilize SOAP para serviços web.
+
 176. **JSON e XML:** Crie um programa que manipule dados em JSON e XML.
+
 177. **WebSockets:** Faça um programa que utilize WebSockets para comunicação em tempo real.
+
 178. **Segurança em Aplicações Java:** Escreva um programa que implemente medidas de segurança.
+
 179. **JUnit para Testes:** Crie testes usando JUnit.
+
 180. **Testes de Integração:** Faça um programa que realize testes de integração.
+
 181. **Testes Funcionais:** Escreva um programa que realize testes funcionais.
+
 182. **Teste de Performance:** Crie um programa que realize testes de performance.
 183. **Métricas de Código:** Faça um programa que colete métricas de código.
+
 184. **Gerenciamento de Dependências:** Escreva um programa que utilize Maven ou Gradle.
+
 185. **Docker:** Crie uma aplicação que utilize Docker.
+
 186. **Kubernetes:** Faça um programa que utilize Kubernetes.
+
 187. **APIs de Machine Learning:** Escreva um programa que utilize APIs de Machine Learning.
+
 188. **Integração Contínua:** Crie um programa que implemente práticas de integração contínua.
+
 189. **Monitoramento de Aplicações:** Faça um programa que implemente monitoramento de aplicações.
+
 190. **Análise de Logs:** Crie um programa que analise logs de aplicações.
+
 191. **Performance Tuning:** Escreva um programa que implemente melhorias de performance.
+
 192. **Segurança de Dados:** Faça um programa que implemente segurança de dados.
+
 193. **Controle de Acesso:** Crie um programa que implemente controle de acesso a recursos.
+
 194. **Audit Logging:** Escreva um programa que implemente auditoria de logs.
+
 195. **Gerenciamento de Configurações:** Crie um programa que gerencie configurações de aplicações.
+
 196. **Tratamento de Exceções:** Faça um programa que implemente tratamento de exceções.
+
 197. **Otimizando Consultas a Banco de Dados:** Crie um programa que otimize consultas a banco de dados.
+
 198. **Gerenciamento de Transações:** Escreva um programa que gerencie transações em banco de dados.
+
 199. **Armazenamento em Nuvem:** Faça um programa que implemente armazenamento em nuvem.
+
 200. **Inteligência Artificial em Java:** Crie um programa que implemente conceitos básicos de inteligência artificial em Java.
+
 
 ---
 
